@@ -33,6 +33,6 @@ Then, I ran the script
 Lastly, I pushed the work onto github
 ```bash
 git add .
-git commit -m "Summatives done"
+git commit -m "App works!"
 git push
 ```
